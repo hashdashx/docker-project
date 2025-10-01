@@ -1,7 +1,7 @@
 # Odoo Swarm Deployment
 
 ## 📌 Note
-Before install and configure your NFS server at:
+Before install and configure your glusterfs at:
 
 ```yaml
 volumes:
